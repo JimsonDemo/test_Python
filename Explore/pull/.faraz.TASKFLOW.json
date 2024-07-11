@@ -1,0 +1,25 @@
+{
+  "objectInfo" : {
+    "id" : "klFKw3SRq6odrAYIxmnfK4",
+    "name" : "faraz",
+    "type" : "TASKFLOW",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "x6fOC2XZPnE29Em-gt-4761583-2023-11-30T12:23:22.373Z::tf.xml"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "application/json; charset=utf-8",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "xml",
+  "updateTime" : "2024-07-11T12:28:30.991Z",
+  "objectRefs" : [ ]
+}
